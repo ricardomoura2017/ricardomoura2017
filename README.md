@@ -24,6 +24,7 @@ Eu sou Ricardo Moura, estou em processo de transição de carreira,atualmente es
 - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="logo-type"/>
 - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo-github"/>
 -<img src="https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="logo-n8n"/>
+-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="logo-vscode"/>
 
 <br>
 <br>
