@@ -13,7 +13,7 @@ Eu sou Ricardo Moura, estou em processo de transição de carreira,atualmente es
 
 
 
-### Principais Habilidades: Estudando neste momento:
+### Principais Habilidades: (Estudando neste momento)
 <br>
 <br>
  <img src="https://images.icon-icons.com/2415/PNG/96/javascript_original_logo_icon_146455.png" alt="logo-js" " width="62px"/>
