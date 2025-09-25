@@ -9,7 +9,7 @@ Meu nome é Ricardo Moura sou Desenvolvedor Front End,atualmente estou aprendend
 <br>
 <br>
 
-### Contate me:
+### Conecte-se comigo:
 
 <a href="https://www.linkedin.com/in/ricardo-moura-861a87b3">
 <img align="left" alt=LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,4 +17,4 @@ Meu nome é Ricardo Moura sou Desenvolvedor Front End,atualmente estou aprendend
 <br>
 <br>
 <br>
-[![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardomoura2017)](https://github.com/anuraghazra/github-readme-stats)
+[![Ricardo's stats](https://github-readme-stats.vercel.app/api?username=ricardomoura2017)](https://github.com/anuraghazra/github-readme-stats)
