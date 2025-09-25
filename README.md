@@ -17,4 +17,4 @@ Meu nome é Ricardo Moura sou Desenvolvedor Front End,atualmente estou aprendend
 <br>
 <br>
 <br>
-[![Ricardo stats](https://github-readme-stats.vercel.app/api?username=ricardomoura2017)](https://github.com/anuraghazra/github-readme-stats)
+[![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardomoura2017)](https://github.com/anuraghazra/github-readme-stats)
