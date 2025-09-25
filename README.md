@@ -6,7 +6,7 @@ Eu sou Ricardo Moura, estou em processo de transição de carreira,atualmente es
 ### Conecte-se comigo:
 
 <a href="https://www.linkedin.com/in/ricardo-moura-861a87b3">
-<img align="left" alt=LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt=LinkedIn" width="42px" src="https://images.icon-icons.com/555/PNG/96/linkedin_icon-icons.com_53609.png" />
 <br>
 <br>
 <br>
@@ -16,15 +16,16 @@ Eu sou Ricardo Moura, estou em processo de transição de carreira,atualmente es
 ### Principais Habilidades: Estudando neste momento:
 <br>
 <br>
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-js"/>
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
-- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-node"/>
-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="logo-type"/>
-- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo-github"/>
--<img src="https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="logo-n8n"/>
--<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="logo-vscode"/>
+ <img src="https://images.icon-icons.com/2415/PNG/96/javascript_original_logo_icon_146455.png" alt="logo-js" " width="72px"/>
+ <img src="https://images.icon-icons.com/2415/PNG/96/react_original_wordmark_logo_icon_146375.png" alt="react-logo" " width="72px"/>
+ <img src="https://images.icon-icons.com/2415/PNG/96/html_original_wordmark_logo_icon_146478.png" alt="logo-html" " width="72px"/>
+ <img src="https://images.icon-icons.com/2415/PNG/96/css_original_wordmark_logo_icon_146576.png" alt="css-logo" " width="72px"/>
+ <img src="https://images.icon-icons.com/2415/PNG/96/nodejs_original_wordmark_logo_icon_146412.png" alt="logo-node" " width="72px"/>
+ <img src="https://images.icon-icons.com/2415/PNG/96/typescript_original_logo_icon_146317.png" alt="logo-type" " width="72px"/>
+ <img src="https://images.icon-icons.com/2415/PNG/96/github_original_wordmark_logo_icon_146506.png" alt="logo-github" " width="72px"/>
+ <img src="https://cdn.raiolanetworks.com/blog/wp-content/uploads/n8n.png" alt="logo-n8n" " width="72px"/>
+ <img src="https://images.icon-icons.com/3053/PNG/96/microsoft_visual_studio_code_alt_macos_bigsur_icon_189955.png" alt="logo-vscode" " width="72px"/>
+ <img src="https://images.icon-icons.com/2415/PNG/96/git_original_wordmark_logo_icon_146510.png" alt="logo-git" " width="72px"/>"
 
 <br>
 <br>
