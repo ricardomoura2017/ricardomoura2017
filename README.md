@@ -1,6 +1,6 @@
 ## Olá👋
 
-Eu sou Ricardo Moura, estou em processo de transição de carreira,atualmente estou aprendendo e criando projetos para me tornar um Desenvolvedor Full Stack.
+Eu sou Ricardo , estou em processo de transição de carreira,atualmente estou aprendendo e criando projetos para me tornar um Desenvolvedor Full Stack.
 <br>
 <br>
 ### Conecte-se comigo:
